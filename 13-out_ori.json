@@ -1,0 +1,29 @@
+
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "6",
+      "points": [[453.000000, 609.000120], [453.000000, 639.000360], [948.999360, 639.000360], [948.999360, 609.000120]],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}    
+    }
+                        ,
+    {
+      "label": "6",
+      "points": [[1061.000640, 608.000040], [1061.000640, 639.000360], [1864.000320, 639.000360], [1864.000320, 608.000040]],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {}    
+    }
+                        ],
+  "imagePath": "D:/jsai/image_test/13-out_ori.jpg",
+  "imageData": null,
+  "imageHeight": 1080,
+  "imageWidth": 1920
+}
+                        
