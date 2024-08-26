@@ -17,7 +17,7 @@ import os
 
 # 指定要遍历的文件夹路径
 # folder_path = 'D:/jsai/test/image_test'  # 数据集所在的文件夹
-folder_path = 'D:/桌面/11'  # 数据集所在的文件夹
+folder_path = 'D:/桌面/labels'  # 数据集所在的文件夹
 list_data = []          # 用于存储txt文件中每一行的数据
 list_content = []       # 以列表存储json文件的标准格式中的点坐标
 content_2 = ""    # 用于存储json文件的标准格式
